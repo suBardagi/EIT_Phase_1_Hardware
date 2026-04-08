@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=U15-2
+Change Net Name : Old Net Name=ENV_TO_ADC New Net Name=SIG_Mux_2
+Add Net: Net with name "AGND" already exists
+Add Net: Net with name "AGND" already exists
+Add Net: Net with name "AGND" already exists
+Added Pin To Net: NetName=ENV_TO_ADC Pin=U15-2
+Added Net: Name=ENV_TO_ADC
+Added Rule: Name=Schematic Supply Nets_18

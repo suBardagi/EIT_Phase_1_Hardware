@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+3.3V Pin=C24_Mux_1-1
+Removed Pin From Net: NetName=+3.3V Pin=C24_Mux_2-1
+Removed Pin From Net: NetName=AGND Pin=C26-1
+Removed Pin From Net: NetName=AGND Pin=C29-1
+Removed Pin From Net: NetName=+3.3V Pin=U6_Mux_1-1
+Removed Pin From Net: NetName=+3.3V Pin=U6_Mux_2-1
+Added Pin To Net: NetName=+3.3V_Mux_1 Pin=C24_Mux_1-1
+Added Pin To Net: NetName=+3.3V_Mux_2 Pin=C24_Mux_2-1
+Added Pin To Net: NetName=SIG_Mux_2 Pin=C26-1
+Added Pin To Net: NetName=AGND Pin=C54-2
+Added Pin To Net: NetName=AGND Pin=C58-2
+Added Pin To Net: NetName=+3.3V_Mux_1 Pin=U6_Mux_1-1
+Added Pin To Net: NetName=+3.3V_Mux_2 Pin=U6_Mux_2-1
+Added Pin To Net: NetName=AGND Pin=U15-3
+Added Pin To Net: NetName=AGND Pin=U15-4
+Add Net: Net with name "AGND" already exists

@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C24_Mux_1-2
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C24_Mux_2-2
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C24_Mux_4-2
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C24_Mux_-2
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C26-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C29-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C40-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C41-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C46-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C48-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C54-2
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C58-2
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=R9-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=R10-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=U15-3
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=U15-4
+Added Pin To Net: NetName=ENV_TO_ADC Pin=C23_Mux_1-1
+Added Pin To Net: NetName=ENV_TO_ADC Pin=C23_Mux_2-1
+Added Pin To Net: NetName=ENV_TO_ADC Pin=C23_Mux_4-1
+Added Pin To Net: NetName=ENV_TO_ADC Pin=C23_Mux_-1
+Added Pin To Net: NetName=AGND_Mux_1 Pin=C24_Mux_1-2
+Added Net: Name=AGND_Mux_1
+Added Pin To Net: NetName=AGND_Mux_2 Pin=C24_Mux_2-2
+Added Net: Name=AGND_Mux_2
+Added Pin To Net: NetName=AGND_Mux_4 Pin=C24_Mux_4-2
+Added Net: Name=AGND_Mux_4
+Added Pin To Net: NetName=AGND_Mux_ Pin=C24_Mux_-2
+Added Net: Name=AGND_Mux_
+Added Pin To Net: NetName=AGND Pin=C26-1
+Added Pin To Net: NetName=AGND Pin=C29-1
+Added Net: Name=AGND
+Add Net: Net with name "AGND" already exists
+Add Net: Net with name "AGND" already exists
+Add Net: Net with name "AGND" already exists
+Added Rule: Name=Schematic Supply Nets_22
+Added Rule: Name=Schematic Supply Nets_23
+Added Rule: Name=Schematic Supply Nets_24
+Added Rule: Name=Schematic Supply Nets_25
+Added Rule: Name=Schematic Supply Nets_26
+Added Rule: Name=Schematic Supply Nets_27
+Added Rule: Name=Schematic Supply Nets_28
+Added Rule: Name=Schematic Supply Nets_29

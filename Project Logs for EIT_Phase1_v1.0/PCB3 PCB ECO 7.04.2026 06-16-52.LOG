@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=SIG_Mux_2 Pin=C40-1
+Added Pin To Net: NetName=SIG_Mux_2 Pin=C41-1
+Add Net: Net with name "AGND" already exists
+Add Net: Net with name "AGND" already exists
+Add Net: Net with name "AGND" already exists
+Added Room: Name=Main
+Added Room: Name=U_Power

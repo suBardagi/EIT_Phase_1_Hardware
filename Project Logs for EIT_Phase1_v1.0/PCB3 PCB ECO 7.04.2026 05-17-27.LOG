@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C23_Mux_1-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C23_Mux_2-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C23_Mux_4-1
+Removed Pin From Net: NetName=ENV_TO_ADC Pin=C23_Mux_-1
+Added Pin To Net: NetName=A_GND_Mux_1 Pin=C23_Mux_1-1
+Added Net: Name=A_GND_Mux_1
+Added Pin To Net: NetName=A_GND_Mux_2 Pin=C23_Mux_2-1
+Added Net: Name=A_GND_Mux_2
+Added Pin To Net: NetName=A_GND_Mux_4 Pin=C23_Mux_4-1
+Added Net: Name=A_GND_Mux_4
+Added Pin To Net: NetName=A_GND_Mux_ Pin=C23_Mux_-1
+Added Net: Name=A_GND_Mux_
+Added Rule: Name=Schematic Supply Nets_18
+Added Rule: Name=Schematic Supply Nets_19
+Added Rule: Name=Schematic Supply Nets_20
+Added Rule: Name=Schematic Supply Nets_21

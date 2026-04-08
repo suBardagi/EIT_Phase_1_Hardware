@@ -1,0 +1,40 @@
+Added Component: Designator=J2(61301611821)
+Add component (AddParameter): Name = "Category"; Value = "Board-to-Board Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/61301611821?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/61301611821?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Socket Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61301611821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-PHD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S1 Pin=J2-1
+Added Pin To Net: NetName=S2 Pin=J2-2
+Added Pin To Net: NetName=S3 Pin=J2-3
+Added Pin To Net: NetName=S4 Pin=J2-4
+Added Pin To Net: NetName=S5 Pin=J2-5
+Added Pin To Net: NetName=S6 Pin=J2-6
+Added Pin To Net: NetName=S7 Pin=J2-7
+Added Pin To Net: NetName=S8 Pin=J2-8
+Added Pin To Net: NetName=S9 Pin=J2-9
+Added Pin To Net: NetName=S10 Pin=J2-10
+Added Pin To Net: NetName=S11 Pin=J2-11
+Added Pin To Net: NetName=S12 Pin=J2-12
+Added Pin To Net: NetName=S13 Pin=J2-13
+Added Pin To Net: NetName=S14 Pin=J2-14
+Added Pin To Net: NetName=S15 Pin=J2-15
+Added Pin To Net: NetName=S16 Pin=J2-16
+Add Net: Net with name "AGND" already exists
+Added Member To Class: ClassName=Main Member=Component J2 61301611821
